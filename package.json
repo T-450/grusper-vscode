@@ -3,7 +3,12 @@
   "displayName": "Grusper",
   "description": "A high-contrast dark theme focused on semantic color, not decoration.",
   "version": "1.0.0",
-  "publisher": "grusper",
+  "publisher": "T450",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/T450/grusper-theme"
+  },
   "scripts": {
     "run": "code --extensionDevelopmentPath=.",
     "package": "vsce package --allow-missing-repository",
