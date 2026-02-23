@@ -1,0 +1,30 @@
+{
+  "name": "grusper-theme",
+  "displayName": "Grusper",
+  "description": "A high-contrast dark theme focused on semantic color, not decoration.",
+  "version": "1.0.0",
+  "publisher": "grusper",
+  "scripts": {
+    "run": "code --extensionDevelopmentPath=.",
+    "package": "vsce package --allow-missing-repository",
+    "publish": "vsce publish --allow-missing-repository"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grusper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grusper-color-theme.json"
+      }
+    ]
+  }
+}
