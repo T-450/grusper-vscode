@@ -7,7 +7,7 @@
   "icon": "logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/T450/grusper-theme"
+    "url": "https://github.com/T-450/grusper-vscode"
   },
   "scripts": {
     "run": "code --extensionDevelopmentPath=.",
