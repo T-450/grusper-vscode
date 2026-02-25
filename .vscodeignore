@@ -2,3 +2,5 @@ node_modules/
 marketing/
 .vscode/
 *.vsix
+.claude/
+skills/

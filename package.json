@@ -11,8 +11,8 @@
   },
   "scripts": {
     "run": "code --extensionDevelopmentPath=.",
-    "package": "vsce package --allow-missing-repository",
-    "publish": "vsce publish --allow-missing-repository"
+    "package": "vsce package --allow-missing-repository --no-dependencies",
+    "publish": "vsce publish --allow-missing-repository --no-dependencies"
   },
   "devDependencies": {
     "@vscode/vsce": "^3.6.2"
