@@ -57,3 +57,6 @@ junit.xml
 !.yarn/versions
 
 marketing/
+.claude/
+.github/
+skills/
