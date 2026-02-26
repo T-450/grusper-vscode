@@ -25,8 +25,8 @@
     "macro": "#FA99FF",
     "decorator": "#FA99FF",
     "comment": { "foreground": "#7A7D8C", "italic": true },
-    "keyword": { "foreground": "#FFFA99", "bold": true },
-    "selfKeyword": { "foreground": "#FFFA99", "bold": true },
+    "keyword": { "foreground": "#FFFA99", "bold": false },
+    "selfKeyword": { "foreground": "#FFFA99", "bold": false },
     "string": "#D1FF99",
     "number": "#FFFFFF",
     "operator": "#5E6370",
@@ -641,7 +641,7 @@
       ],
       "settings": {
         "foreground": "#FFFA99",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
