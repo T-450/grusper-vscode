@@ -8,10 +8,10 @@
 
 ## Features
 
-- 🌑 **High-contrast dark background** — reduces eye strain during long coding sessions
-- 🎨 **Semantic color palette** — colors are chosen to reflect the meaning and role of each syntax element
-- 📖 **Readability-first design** — clear distinction between identifiers, keywords, strings, and types
-- ⚡ **Lightweight** — no dependencies, instant activation
+- **High-contrast dark background** — reduces eye strain during long coding sessions
+- **Semantic color palette** — colors are chosen to reflect the meaning and role of each syntax element
+- **Readability-first design** — clear distinction between identifiers, keywords, strings, and types
+- **Lightweight** — no dependencies, instant activation
 
 ## Installation
 
